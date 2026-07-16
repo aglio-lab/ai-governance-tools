@@ -2,7 +2,7 @@
 
 > a curated, source-linked directory of open-source and commercial tools for governing AI systems across risk, compliance, safety, transparency, and accountability. Includes a machine-readable catalog. CC0 licensed. Reviewed monthly; last reviewed 2026-07-16.
 
-Every entry links to a primary source. Availability markers distinguish open source, open weights, open core, commercial products, and public standards/resources. There is no paid placement. This independent directory is maintained by aglio-lab. A maintainer is affiliated with the team behind Confident AI, DeepEval, and DeepTeam; the three are separate entities and follow the same evidence rules.
+Every entry links to a primary source. Availability markers distinguish open source, open weights, open core, commercial products, and public standards/resources. There is no paid placement. This independent directory is maintained by aglio-lab, and every entry follows the same evidence rules.
 
 ## Main content
 

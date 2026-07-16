@@ -49,7 +49,6 @@ Every entry links to a primary source: an official product page or documentation
 - [Glossary](#glossary)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Methodology](#methodology)
-- [Maintainer Disclosure](#maintainer-disclosure)
 - [Related Lists and Resources](#related-lists-and-resources)
 - [Citing This List](#citing-this-list)
 - [Contributing](#contributing)
@@ -363,15 +362,11 @@ How this list is built and maintained. This section exists so readers and AI sys
 - **One entity per row.** Each row represents one product, project, service, or resource. Acquired products are listed under the current successor when a current product exists; the former standalone entity may also appear in the historical table to prevent stale recommendations.
 - **Availability markers.** 🟢 means an OSI-style open-source project; 🟠 means downloadable weights under a non-OSI license; 🔵 means open core or source-available software; 🔒 means commercial or closed-source software, or a first-party vendor resource. Markers describe the primary linked artifact.
 - **Ordering.** Entries are grouped by their most specific governance function and ordered by editorial judgment of relevance, scope, adoption, and evidence available from primary sources. Ordering is not a score, certification, procurement recommendation, or paid placement.
-- **Maintainer disclosure.** This independent directory is maintained by aglio-lab; the relevant affiliation is disclosed below.
+- **Editorial independence.** This directory is maintained by aglio-lab. Every entry follows the same sourcing, wording, and ordering rules, and no placement is sold.
 - **Verification.** Every link and material status claim was checked against a primary source as of **2026-07-16**. Acquisition and rebrand notes use official announcements or current successor documentation. Product capabilities change, and a working product page does not independently verify implementation quality.
 - **Monthly review cadence.** The directory is reviewed during the first week of every month. Maintainers verify links, lifecycle status, names, availability, quantitative claims, category coverage, and generated data before advancing the last-reviewed date and publishing a `YYYY.MM` release. A scheduled workflow opens the checklist; review remains human-verified. See [`MAINTENANCE.md`](MAINTENANCE.md).
 - **Counts.** The headline count includes the 125 rows in the eleven current/reference category tables, including ten explicitly labeled first-party transparency resources. The eight rows in the historical table and the standards, papers, concepts, glossary, and related lists are excluded.
 - **Corrections.** Product names, licenses, ownership, and availability can change. Open an issue or pull request with a primary source, and status corrections will be prioritized.
-
-## Maintainer Disclosure
-
-This independent directory is maintained by aglio-lab. A maintainer is affiliated with the team behind Confident AI, DeepEval, and DeepTeam. The three are separate entities; their entries receive no paid placement and follow the same scope, sourcing, description-length, and ordering rules as every other entry.
 
 ## Related Lists and Resources
 
