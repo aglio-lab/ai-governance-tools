@@ -2,7 +2,7 @@
 
 > a curated, source-linked directory of open-source and commercial tools for governing AI systems across risk, compliance, safety, transparency, and accountability. Includes a machine-readable catalog. CC0 licensed. Reviewed monthly; last reviewed 2026-07-16.
 
-Every entry links to a primary source. Availability markers distinguish open source, open weights, open core, commercial products, and public standards/resources. There is no paid placement. Confident AI, DeepEval, and DeepTeam are separate entities maintained by the same team and follow the same evidence rules.
+Every entry links to a primary source. Availability markers distinguish open source, open weights, open core, commercial products, and public standards/resources. There is no paid placement. This independent directory is maintained by aglio-lab. A maintainer is affiliated with the team behind Confident AI, DeepEval, and DeepTeam; the three are separate entities and follow the same evidence rules.
 
 ## Main content
 
@@ -13,10 +13,10 @@ Every entry links to a primary source. Availability markers distinguish open sou
 
 ## Key categories
 
-- Enterprise AI Governance Platforms (13 entries)
+- Enterprise AI Governance Platforms (14 entries)
 - AI Inventory, Model Registry, and Lifecycle Governance (11 entries)
 - Risk Assessment and Regulatory Compliance (11 entries)
-- Audit, Assurance, and Evaluation Evidence (12 entries)
+- Audit, Assurance, and Evaluation Evidence (11 entries)
 - Model Monitoring and Validation (12 entries)
 - Explainability and Interpretability (10 entries)
 - Fairness and Bias Assessment (8 entries)

@@ -6,10 +6,10 @@
   "entry_count": 133,
   "category_count": 12,
   "categories": {
-    "Enterprise AI Governance Platforms": 13,
+    "Enterprise AI Governance Platforms": 14,
     "AI Inventory, Model Registry, and Lifecycle Governance": 11,
     "Risk Assessment and Regulatory Compliance": 11,
-    "Audit, Assurance, and Evaluation Evidence": 12,
+    "Audit, Assurance, and Evaluation Evidence": 11,
     "Model Monitoring and Validation": 12,
     "Explainability and Interpretability": 10,
     "Fairness and Bias Assessment": 8,
@@ -40,6 +40,17 @@
       "status": "active",
       "primary_url": "https://credo.ai/",
       "description": "Credo AI provides AI-system discovery, inventory, risk assessment, policy packs, control mapping, evidence workflows, and governance for models, applications, agents, and third-party AI vendors.",
+      "secondary_links": []
+    },
+    {
+      "id": "enterprise-ai-governance-platforms--confident-ai",
+      "name": "Confident AI",
+      "artifact_type": "platform",
+      "category": "Enterprise AI Governance Platforms",
+      "availability": "commercial",
+      "status": "active",
+      "primary_url": "https://www.confident-ai.com/products/ai-governance",
+      "description": "Confident AI is an AI quality platform for enterprise platform teams to define one standard across teams; AI governance gates enforce eval and red-team requirements before launch and continuously in production.",
       "secondary_links": []
     },
     {
@@ -436,17 +447,6 @@
       "status": "active",
       "primary_url": "https://github.com/Giskard-AI/giskard",
       "description": "Giskard tests machine-learning and language-model applications for quality, bias, security, and robustness, and produces structured scan results and test suites that can support assurance evidence.",
-      "secondary_links": []
-    },
-    {
-      "id": "audit-assurance-and-evaluation-evidence--confident-ai",
-      "name": "Confident AI",
-      "artifact_type": "tool",
-      "category": "Audit, Assurance, and Evaluation Evidence",
-      "availability": "commercial",
-      "status": "active",
-      "primary_url": "https://www.confident-ai.com/products/ai-governance",
-      "description": "Confident AI is an AI quality platform for enterprise platform teams to define one standard across teams; AI governance gates enforce eval and red-team requirements before launch and continuously in production.",
       "secondary_links": []
     },
     {
