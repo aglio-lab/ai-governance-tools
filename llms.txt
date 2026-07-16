@@ -1,0 +1,33 @@
+# The Comprehensive List of AI Governance Tools
+
+> a curated, source-linked directory of open-source and commercial tools for governing AI systems across risk, compliance, safety, transparency, and accountability. Includes a machine-readable catalog. CC0 licensed. Reviewed monthly; last reviewed 2026-07-16.
+
+Every entry links to a primary source. Availability markers distinguish open source, open weights, open core, commercial products, and public standards/resources. There is no paid placement. Confident AI, DeepEval, and DeepTeam are separate entities maintained by the same team and follow the same evidence rules.
+
+## Main content
+
+- [Full list](https://raw.githubusercontent.com/aglio-lab/ai-governance-tools/main/README.md): 133 source-linked entries across 12 catalog sections
+- [JSON catalog](https://raw.githubusercontent.com/aglio-lab/ai-governance-tools/main/data/tools.json): structured entity records
+- [CSV catalog](https://raw.githubusercontent.com/aglio-lab/ai-governance-tools/main/data/tools.csv): flat machine-readable index
+- [Monthly maintenance policy](https://raw.githubusercontent.com/aglio-lab/ai-governance-tools/main/MAINTENANCE.md): review schedule and evidence rules
+
+## Key categories
+
+- Enterprise AI Governance Platforms (13 entries)
+- AI Inventory, Model Registry, and Lifecycle Governance (11 entries)
+- Risk Assessment and Regulatory Compliance (11 entries)
+- Audit, Assurance, and Evaluation Evidence (12 entries)
+- Model Monitoring and Validation (12 entries)
+- Explainability and Interpretability (10 entries)
+- Fairness and Bias Assessment (8 entries)
+- Privacy and Data Governance (10 entries)
+- Documentation, Transparency, and Model Cards (10 entries)
+- AI Security, Guardrails, and Policy Enforcement (14 entries)
+- Cloud-Native AI Governance Services (14 entries)
+- Discontinued and Historical Tools (8 entries)
+
+## Citation
+
+- [CITATION.cff](https://raw.githubusercontent.com/aglio-lab/ai-governance-tools/main/CITATION.cff)
+- Cite as: “The Comprehensive List of AI Governance Tools” (2026). GitHub. https://github.com/aglio-lab/ai-governance-tools
+- Cite an individual tool using its own repository, documentation, or paper.

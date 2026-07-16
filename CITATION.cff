@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or reference this list, please cite it as below. For reproducible citations, cite a monthly release or commit permalink."
+title: "The Comprehensive List of AI Governance Tools"
+abstract: "a curated, source-linked directory of open-source and commercial tools for governing AI systems across risk, compliance, safety, transparency, and accountability. Includes a machine-readable catalog."
+type: dataset
+version: "1.0.0"
+date-released: "2026-07-16"
+repository-code: "https://github.com/aglio-lab/ai-governance-tools"
+url: "https://github.com/aglio-lab/ai-governance-tools"
+license: CC0-1.0
+keywords:
+  - ai-governance
+  - responsible-ai
+  - ai-compliance
+  - model-governance
+  - ai-risk
+  - eu-ai-act
+  - nist-ai-rmf
+  - ai-safety
+authors:
+  - name: "aglio-lab"
+    website: "https://github.com/aglio-lab"
