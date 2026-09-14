@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-governance-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 133,
+  "entry_count": 134,
   "category_count": 12,
   "categories": {
     "Enterprise AI Governance Platforms": 14,
@@ -15,7 +15,7 @@
     "Fairness and Bias Assessment": 8,
     "Privacy and Data Governance": 10,
     "Documentation, Transparency, and Model Cards": 10,
-    "AI Security, Guardrails, and Policy Enforcement": 14,
+    "AI Security, Guardrails, and Policy Enforcement": 15,
     "Cloud-Native AI Governance Services": 14,
     "Discontinued and Historical Tools": 8
   },
@@ -1239,6 +1239,17 @@
       "status": "active",
       "primary_url": "https://zenity.io/",
       "description": "Zenity discovers and assesses enterprise AI agents, copilots, and low-code applications, monitors their identities and actions, and applies security and governance controls.",
+      "secondary_links": []
+    },
+    {
+      "id": "ai-security-guardrails-and-policy-enforcement--speakeasy",
+      "name": "Speakeasy",
+      "artifact_type": "tool",
+      "category": "AI Security, Guardrails, and Policy Enforcement",
+      "availability": "commercial",
+      "status": "active",
+      "primary_url": "https://www.speakeasy.com/product/ai-control-plane",
+      "description": "Speakeasy is an enterprise AI control plane that governs access and policy across agents, MCP servers, and Skills, with auditability for access events and tool actions.",
       "secondary_links": []
     },
     {
