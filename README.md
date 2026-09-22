@@ -130,6 +130,7 @@ These products translate laws, standards, internal policies, and risk taxonomies
 | [AI Verify Testing Framework](https://github.com/aiverify-foundation/aiverify) | 🟢 Open source | AI Verify Testing Framework is an open-source toolkit and workbench for running technical tests, process checks, and reporting against responsible-AI principles and selected governance requirements. |
 | [METR Vivaria](https://github.com/METR/vivaria) | 🟢 Open source | METR Vivaria is an open-source platform for running agent evaluations in isolated task environments, recording trajectories, scoring outcomes, and supporting human review of evaluation evidence. |
 | [PyRIT](https://github.com/Azure/PyRIT) | 🟢 Open source | PyRIT is Microsoft's open-source framework for orchestrating generative-AI red teaming, recording prompts and responses, applying scorers, and reproducing attack campaigns across target systems. |
+| [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) | 🔒 Commercial | Allowly Hiring Evidence evaluates selected hiring fields against a published policy and creates signed records for its decisions, reviews, and corrections, with portable job-scoped evidence packs. |
 
 ## Model Monitoring and Validation
 

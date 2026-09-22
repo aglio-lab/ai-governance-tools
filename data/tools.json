@@ -3,13 +3,13 @@
   "source": "https://github.com/aglio-lab/ai-governance-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 133,
+  "entry_count": 134,
   "category_count": 12,
   "categories": {
     "Enterprise AI Governance Platforms": 14,
     "AI Inventory, Model Registry, and Lifecycle Governance": 11,
     "Risk Assessment and Regulatory Compliance": 11,
-    "Audit, Assurance, and Evaluation Evidence": 11,
+    "Audit, Assurance, and Evaluation Evidence": 12,
     "Model Monitoring and Validation": 12,
     "Explainability and Interpretability": 10,
     "Fairness and Bias Assessment": 8,
@@ -535,6 +535,17 @@
       "status": "active",
       "primary_url": "https://github.com/Azure/PyRIT",
       "description": "PyRIT is Microsoft's open-source framework for orchestrating generative-AI red teaming, recording prompts and responses, applying scorers, and reproducing attack campaigns across target systems.",
+      "secondary_links": []
+    },
+    {
+      "id": "audit-assurance-and-evaluation-evidence--allowly-hiring-evidence",
+      "name": "Allowly Hiring Evidence",
+      "artifact_type": "tool",
+      "category": "Audit, Assurance, and Evaluation Evidence",
+      "availability": "commercial",
+      "status": "active",
+      "primary_url": "https://allowly.ai/docs/solutions/hiring/",
+      "description": "Allowly Hiring Evidence evaluates selected hiring fields against a published policy and creates signed records for its decisions, reviews, and corrections, with portable job-scoped evidence packs.",
       "secondary_links": []
     },
     {
