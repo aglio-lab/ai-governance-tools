@@ -130,6 +130,7 @@ These products translate laws, standards, internal policies, and risk taxonomies
 | [AI Verify Testing Framework](https://github.com/aiverify-foundation/aiverify) | 🟢 Open source | AI Verify Testing Framework is an open-source toolkit and workbench for running technical tests, process checks, and reporting against responsible-AI principles and selected governance requirements. |
 | [METR Vivaria](https://github.com/METR/vivaria) | 🟢 Open source | METR Vivaria is an open-source platform for running agent evaluations in isolated task environments, recording trajectories, scoring outcomes, and supporting human review of evaluation evidence. |
 | [PyRIT](https://github.com/Azure/PyRIT) | 🟢 Open source | PyRIT is Microsoft's open-source framework for orchestrating generative-AI red teaming, recording prompts and responses, applying scorers, and reproducing attack campaigns across target systems. |
+| [Legibility Field Kit](https://github.com/forgedculture/legibility-field-kit) | 🟢 Open source | Legibility Field Kit is an Apache-2.0 Python CLI that checks AI-touched workflow records for missing named owners, irreversible-action gates, reversal timing, and Owner-Time-Witness fields. It scaffolds governance files; it does not enforce runtime policy or certify compliance. |
 
 ## Model Monitoring and Validation
 

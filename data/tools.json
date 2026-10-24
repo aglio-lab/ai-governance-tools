@@ -3,13 +3,13 @@
   "source": "https://github.com/aglio-lab/ai-governance-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 133,
+  "entry_count": 134,
   "category_count": 12,
   "categories": {
     "Enterprise AI Governance Platforms": 14,
     "AI Inventory, Model Registry, and Lifecycle Governance": 11,
     "Risk Assessment and Regulatory Compliance": 11,
-    "Audit, Assurance, and Evaluation Evidence": 11,
+    "Audit, Assurance, and Evaluation Evidence": 12,
     "Model Monitoring and Validation": 12,
     "Explainability and Interpretability": 10,
     "Fairness and Bias Assessment": 8,
@@ -535,6 +535,17 @@
       "status": "active",
       "primary_url": "https://github.com/Azure/PyRIT",
       "description": "PyRIT is Microsoft's open-source framework for orchestrating generative-AI red teaming, recording prompts and responses, applying scorers, and reproducing attack campaigns across target systems.",
+      "secondary_links": []
+    },
+    {
+      "id": "audit-assurance-and-evaluation-evidence--legibility-field-kit",
+      "name": "Legibility Field Kit",
+      "artifact_type": "tool",
+      "category": "Audit, Assurance, and Evaluation Evidence",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/forgedculture/legibility-field-kit",
+      "description": "Legibility Field Kit is an Apache-2.0 Python CLI that checks AI-touched workflow records for missing named owners, irreversible-action gates, reversal timing, and Owner-Time-Witness fields. It scaffolds governance files; it does not enforce runtime policy or certify compliance.",
       "secondary_links": []
     },
     {
