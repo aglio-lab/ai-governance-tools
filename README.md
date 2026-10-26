@@ -236,6 +236,7 @@ This category includes **documentation tooling and first-party transparency arti
 | [ModelScan](https://github.com/protectai/modelscan) | 🟢 Open source | ModelScan is an open-source static scanner for detecting unsafe code and serialization patterns in machine-learning model files before loading or deployment. |
 | [garak](https://github.com/NVIDIA/garak) | 🟢 Open source | garak is an open-source vulnerability scanner that probes language models and applications for prompt injection, data leakage, misinformation, toxicity, jailbreaks, and other failure modes. |
 | [Zenity](https://zenity.io/) | 🔒 Commercial | Zenity discovers and assesses enterprise AI agents, copilots, and low-code applications, monitors their identities and actions, and applies security and governance controls. |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | 🔵 Open core | Speakeasy control plane governs gateway-routed MCP tool access with enterprise identity roles, per-action security policies, and tool-call audit records. |
 
 ## Cloud-Native AI Governance Services
 
