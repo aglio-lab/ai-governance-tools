@@ -214,6 +214,7 @@ This category includes **documentation tooling and first-party transparency arti
 | [Meta System Cards](https://ai.meta.com/tools/system-cards/) | 🔒 Vendor resource | Meta System Cards are first-party transparency documents explaining components, data use, ranking or generation processes, limitations, and user controls in selected Meta AI systems. |
 | [Cohere Model Cards](https://docs.cohere.com/docs/responsible-use) | 🔒 Vendor resource | Cohere Model Cards are first-party documents describing model specifications, intended and unintended uses, language coverage, safety evaluations, limitations, and responsible-use considerations. |
 | [IBM AI FactSheets 360](https://research.ibm.com/blog/aifactsheets) | 🔒 Vendor resource | IBM AI FactSheets 360 is a first-party methodology and resource collection for documenting model purpose, performance, datasets, characteristics, governance context, and stakeholder-specific facts. |
+| [TrustHawk](https://trusthawk.ai) | 📖 Public standard / resource | TrustHawk publishes free ratings of AI companies on safety, transparency, security and privacy, built from verified public sources with every score linked to its source. |
 | [CyclOps Model Report Cards](https://github.com/VectorInstitute/cyclops) | 🟢 Open source | CyclOps Model Report Cards are generated through the open-source CyclOps reporting API to document performance, slices, thresholds, and periodic evaluation results for clinical machine-learning models. |
 
 ## AI Security, Guardrails, and Policy Enforcement

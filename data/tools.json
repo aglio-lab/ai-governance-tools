@@ -3,7 +3,7 @@
   "source": "https://github.com/aglio-lab/ai-governance-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 133,
+  "entry_count": 134,
   "category_count": 12,
   "categories": {
     "Enterprise AI Governance Platforms": 14,
@@ -14,7 +14,7 @@
     "Explainability and Interpretability": 10,
     "Fairness and Bias Assessment": 8,
     "Privacy and Data Governance": 10,
-    "Documentation, Transparency, and Model Cards": 10,
+    "Documentation, Transparency, and Model Cards": 11,
     "AI Security, Guardrails, and Policy Enforcement": 14,
     "Cloud-Native AI Governance Services": 14,
     "Discontinued and Historical Tools": 8
@@ -1074,6 +1074,17 @@
       "status": "active",
       "primary_url": "https://research.ibm.com/blog/aifactsheets",
       "description": "IBM AI FactSheets 360 is a first-party methodology and resource collection for documenting model purpose, performance, datasets, characteristics, governance context, and stakeholder-specific facts.",
+      "secondary_links": []
+    },
+    {
+      "id": "documentation-transparency-and-model-cards--trusthawk",
+      "name": "TrustHawk",
+      "artifact_type": "model",
+      "category": "Documentation, Transparency, and Model Cards",
+      "availability": "public-resource",
+      "status": "active",
+      "primary_url": "https://trusthawk.ai",
+      "description": "TrustHawk publishes free ratings of AI companies on safety, transparency, security and privacy, built from verified public sources with every score linked to its source.",
       "secondary_links": []
     },
     {
