@@ -236,6 +236,7 @@ This category includes **documentation tooling and first-party transparency arti
 | [ModelScan](https://github.com/protectai/modelscan) | 🟢 Open source | ModelScan is an open-source static scanner for detecting unsafe code and serialization patterns in machine-learning model files before loading or deployment. |
 | [garak](https://github.com/NVIDIA/garak) | 🟢 Open source | garak is an open-source vulnerability scanner that probes language models and applications for prompt injection, data leakage, misinformation, toxicity, jailbreaks, and other failure modes. |
 | [Zenity](https://zenity.io/) | 🔒 Commercial | Zenity discovers and assesses enterprise AI agents, copilots, and low-code applications, monitors their identities and actions, and applies security and governance controls. |
+| [Bifrost](https://github.com/maximhq/bifrost) | 🔵 Open core | Bifrost is an open-source AI gateway from Maxim AI that applies one set of access rules to LLM calls, MCP tool calls, and agent traffic, with virtual keys, budgets, rate limits, and MCP tool filtering; its enterprise tier adds identity-provider-based access control, request and response guardrails, and signed audit logs. |
 
 ## Cloud-Native AI Governance Services
 
