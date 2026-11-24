@@ -112,6 +112,7 @@ These products translate laws, standards, internal policies, and risk taxonomies
 | [Regulativ AI Governor](https://www.regulativ.ai/ai-governor) | 🔒 Commercial | Regulativ AI Governor provides an AI asset registry, risk classification, policy packs, continuous monitoring, impact assessments, conformity workflows, and evidence exports for multiple regulatory frameworks. |
 | [Govern365](https://govern365.ai/) | 🔒 Commercial | Govern365 provides an AI system registry, framework-specific risk assessments, compliance dashboards, policy and control templates, incident tracking, and audit evidence management. |
 | [MetricStream AI for GRC](https://www.metricstream.com/metricstream-ai-for-grc.htm) | 🔒 Commercial | MetricStream AI for GRC provides governed model access, prompt and data controls, audit logging, model observability, evaluation pipelines, and human review within MetricStream's risk and compliance products. |
+| [OntoRamp](https://ontoramp.com/) | 🔒 Commercial | OntoRamp provides governance maturity assessments across seven governance domains, a readiness certificate that OntoRamp issues and anyone can verify online, and MCP tools that let AI agents search governance knowledge and evaluate decisions against authority context. |
 
 ## Audit, Assurance, and Evaluation Evidence
 
