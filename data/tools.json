@@ -3,12 +3,12 @@
   "source": "https://github.com/aglio-lab/ai-governance-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 133,
+  "entry_count": 134,
   "category_count": 12,
   "categories": {
     "Enterprise AI Governance Platforms": 14,
     "AI Inventory, Model Registry, and Lifecycle Governance": 11,
-    "Risk Assessment and Regulatory Compliance": 11,
+    "Risk Assessment and Regulatory Compliance": 12,
     "Audit, Assurance, and Evaluation Evidence": 11,
     "Model Monitoring and Validation": 12,
     "Explainability and Interpretability": 10,
@@ -414,6 +414,17 @@
       "status": "active",
       "primary_url": "https://www.metricstream.com/metricstream-ai-for-grc.htm",
       "description": "MetricStream AI for GRC provides governed model access, prompt and data controls, audit logging, model observability, evaluation pipelines, and human review within MetricStream's risk and compliance products.",
+      "secondary_links": []
+    },
+    {
+      "id": "risk-assessment-and-regulatory-compliance--ontoramp",
+      "name": "OntoRamp",
+      "artifact_type": "tool",
+      "category": "Risk Assessment and Regulatory Compliance",
+      "availability": "commercial",
+      "status": "active",
+      "primary_url": "https://ontoramp.com/",
+      "description": "OntoRamp provides governance maturity assessments across seven governance domains, a readiness certificate that OntoRamp issues and anyone can verify online, and MCP tools that let AI agents search governance knowledge and evaluate decisions against authority context.",
       "secondary_links": []
     },
     {
